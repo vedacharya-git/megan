@@ -1,2 +1,1 @@
-# megan
-MEGAN - Machine Enabled General Assistance Node
+# MEGAN - Machine Enabled General Assistance Node
