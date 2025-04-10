@@ -31,6 +31,7 @@ cd megan
 ```
 
 3. Setup virtual environment *or don't*
+
 Create a Python environment using Conda or `venv`, the virtual environment handler of your choice.
 
 Or don’t listen to me—you could just run it in your base environment and play into the hands of the devil. I'm not your dad. 🙂
